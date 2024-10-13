@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming & developing optimized s/w 
 - 🌱 I’m currently learning Data science & Artificial Intelligence from IIT Guwahati 
 - 💞️ I’m looking to collaborate !
-- 📫 Follo me on Linkedin 
+- 📫 Follow me on Linkedin 
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love to explore different culture & tranditions !
 
