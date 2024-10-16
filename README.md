@@ -54,9 +54,7 @@
 
 ### 📊 GitHub Stats:
 
-![Jivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jivanjamadar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivanjamadar&layout=compact&theme=radical)
+![Jivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jivanjamadar&show_icons=true&theme=radical)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivanjamadar&layout=compact&theme=radical)
 
 ---
 ### 📈 Contribution Graph:
