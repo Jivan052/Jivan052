@@ -2,7 +2,7 @@
 <h3 align="center"> Software Developer | Data Science & AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Passionate+software+Developer;AI+%26+Data+Science+Learner;Open+Source+Contributor;Software+Optimization+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Passionate+software+Developer;AI+%26+Data+Science+Enthusiast;Open+Source+Contributor;System+Design+Enthusiast" />
 </p>
 
 ---
