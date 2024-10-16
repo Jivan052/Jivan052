@@ -46,9 +46,7 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jivan-jamdar/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jivanjamadar)  
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JivanJamadar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jivan-jamdar/)   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jivanjamadar)   [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JivanJamadar)
 
 ---
 
@@ -57,6 +55,11 @@
 ![Jivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jivanjamadar&show_icons=true&theme=radical)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivanjamadar&layout=compact&theme=radical)
 
 ---
+
+## Badges
+### My Holopin Badges
+[![An image of @jivanjamadar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jivanjamadar)](https://holopin.io/@jivanjamadar)
+
 ### 📈 Contribution Graph:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jivanjamadar&theme=github-compact)
