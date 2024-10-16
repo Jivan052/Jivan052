@@ -59,6 +59,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivanjamadar&layout=compact&theme=radical)
 
 ---
+### 📈 Contribution Graph:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jivanjamadar&theme=github-compact)
+
+---
 
 ### ⚡ Fun Fact:
 - I love exploring different cultures and traditions! 🌍  
