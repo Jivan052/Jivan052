@@ -56,8 +56,20 @@
 
 ---
 
-## Badges
-### My Holopin Badges
+## Badges ⭐⭐⭐
+
+## GSSOC(24) 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
+</div>
+<br>
+
+## Holopin Badges 
 [![An image of @jivanjamadar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jivanjamadar)](https://holopin.io/@jivanjamadar)
 
 ### 📈 Contribution Graph:
