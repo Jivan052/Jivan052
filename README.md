@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 💼 I'm currently learning **Data Science & Artificial Intelligence** at **IIT Guwahati**  
+- 💼 I'm currently pursuing Bachelors in **Data Science & Artificial Intelligence** at **IIT Guwahati**  
 - 👨‍💻 I’m an **open-source contributor** actively working on various projects
 - 🛠️ Love programming and creating **optimized software solutions** 
 - 🔥 Exploring the intersection of **AI**, **machine learning**, and **web development**
