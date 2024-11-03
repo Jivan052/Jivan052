@@ -69,7 +69,7 @@
 </div>
 <br>
 
-## Holopin Badges 
+## Holopin Badges ( HacktoberFest 2024 )
 [![An image of @jivanjamadar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jivanjamadar)](https://holopin.io/@jivanjamadar)
 
 ### 📈 Contribution Graph:
