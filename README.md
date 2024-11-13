@@ -74,7 +74,7 @@
 
 ### 📈 Contribution Graph:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jivanjamadar&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jivan052&theme=github-compact)
 
 ---
 
