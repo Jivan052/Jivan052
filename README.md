@@ -66,6 +66,7 @@
   <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/6.png" width="100px" height="100px" />
 </div>
 <br>
 
