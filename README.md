@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jivan </h1>
+<h1 align="center">Hi there 👋 I'm Jivan </h1>
 <h3 align="center"> Software Developer | Data Science & AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
